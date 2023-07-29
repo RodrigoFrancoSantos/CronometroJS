@@ -1,7 +1,7 @@
 # Cronômetro em JS
 
 
-<div align="center"> <img src="cronoJS"
+<div align="center"> <img src="cronoJS.png"
  width="100%" /></div>
 
 
