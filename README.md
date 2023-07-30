@@ -25,4 +25,4 @@
 
 
 
-- <a href="https://rodrigofrancosantos.github.io/CronometroJS/" >Teste o projeto, aqui !</a>
+- <a href="https://rodrigofrancosantos.github.io/CronometroJS/" >Teste o projeto aqui !</a>
